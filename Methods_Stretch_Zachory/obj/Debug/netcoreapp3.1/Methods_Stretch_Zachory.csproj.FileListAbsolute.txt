@@ -1,0 +1,13 @@
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\bin\Debug\netcoreapp3.1\Methods_Stretch_Zachory.exe
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\bin\Debug\netcoreapp3.1\Methods_Stretch_Zachory.deps.json
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\bin\Debug\netcoreapp3.1\Methods_Stretch_Zachory.runtimeconfig.json
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\bin\Debug\netcoreapp3.1\Methods_Stretch_Zachory.runtimeconfig.dev.json
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\bin\Debug\netcoreapp3.1\Methods_Stretch_Zachory.dll
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\bin\Debug\netcoreapp3.1\Methods_Stretch_Zachory.pdb
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\obj\Debug\netcoreapp3.1\Methods_Stretch_Zachory.csproj.AssemblyReference.cache
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\obj\Debug\netcoreapp3.1\Methods_Stretch_Zachory.AssemblyInfoInputs.cache
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\obj\Debug\netcoreapp3.1\Methods_Stretch_Zachory.AssemblyInfo.cs
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\obj\Debug\netcoreapp3.1\Methods_Stretch_Zachory.csproj.CoreCompileInputs.cache
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\obj\Debug\netcoreapp3.1\Methods_Stretch_Zachory.dll
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\obj\Debug\netcoreapp3.1\Methods_Stretch_Zachory.pdb
+C:\Users\Zachory.Stretch\source\repos\Methods_Stretch_Zachory\Methods_Stretch_Zachory\obj\Debug\netcoreapp3.1\Methods_Stretch_Zachory.genruntimeconfig.cache
